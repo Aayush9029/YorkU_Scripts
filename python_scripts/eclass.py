@@ -14,7 +14,6 @@ def site_is_up():
     except:
         # not sure if this works on windows, hopefully it does
         system("echo 'E-class is up'|ptts")
-    
     exit("eclass is up !!")
 
 
