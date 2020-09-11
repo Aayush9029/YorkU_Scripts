@@ -22,8 +22,6 @@ def check_if_site_is_up():
     status_code = None
     try:
         status_code = urllib.request.urlopen("https://eclass.yorku.ca").getcode()
-        print(type(status_code))
-        print(status_code)
         if status_code == 200:
             return True
     except:
@@ -42,7 +40,7 @@ def main():
 
 
 if __name__ == "__main__":
-    print("The program has started, it will notify you once the site is up and running..")
+    print("\nThe program has started, it will notify you once the site is up and running..")
     main()
 
 
