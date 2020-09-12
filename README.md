@@ -24,8 +24,9 @@ OR
 > ```bash
 > curl https://raw.githubusercontent.com/Aayush9029/YorkU_Scripts/master/python_scripts/eclass.py -s| python3
 > ```
+> 
+> Will work on implementing spyder or bs4 for better checking..~~maybe~~
 
-> Will work on implementing spyder for better checking..
 
 ---
 
