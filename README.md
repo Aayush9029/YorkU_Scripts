@@ -25,6 +25,7 @@ OR
 > curl https://raw.githubusercontent.com/Aayush9029/YorkU_Scripts/master/python_scripts/eclass.py -s| python3
 > ```
 
+> Will work on implementing spyder for better checking..
 
 ---
 
