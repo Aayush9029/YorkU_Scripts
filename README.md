@@ -31,6 +31,7 @@
 > ## make_lab_file.py
 >
 > Description: Makes a simple boiler plate for the EECS 1015 labs *keep things organized and tidy*
+> So you don't have to type in name, student number and other info again and again.
 > #### Recommended:
 > 1. Download the [python file](https://raw.githubusercontent.com/Aayush9029/YorkU_Scripts/master/python_scripts/make_lab_file.py)
 > 2.  Run using python3 interpreter
